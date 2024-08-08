@@ -22,7 +22,7 @@ title: Oz Gitelson
 email: oz.gitelson@yale.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, I'm Oz. I'm a junior at Yale pursuing a BS/MS in Computer Science.
-  outside of classes, I am a researcher in the Social Robotics Lab, where I
+  Outside of classes, I am a researcher in the Social Robotics Lab, where I
   study stress detection and human-robot collaboration.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ozgitelson.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -42,8 +42,9 @@ plugins:
   - jekyll-feed
 
 permalink: /:title
-
-
+header_pages:
+  - publications.md
+  - projects.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
