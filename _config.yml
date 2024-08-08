@@ -21,9 +21,8 @@
 title: Oz Gitelson
 email: oz.gitelson@yale.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I'm Oz. I'm a junior at Yale pursuing a BS/MS in Computer Science.
-  Outside of classes, I am a researcher in the Social Robotics Lab, where I
-  study stress detection and human-robot collaboration.
+  tl;dr I like solving hard problems. If you have an interesting one, 
+  feel free to reach out
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ozgitelson.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
