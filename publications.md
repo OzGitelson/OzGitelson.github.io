@@ -5,7 +5,7 @@ title: Publications
 *indicates equal contribution
 
 ## Integrating Multimodal Affective Signals for Stress Detection from Audio-Visual Data
-![Stress Detection](assets/images/stress%20detection.png) <br><br>
+![Stress Detection](assets/images/icmi2024.png) <br><br>
 Debasmita Ghose\*, __Oz Gitelson__\*, Brian Scassellati
 
 ACM International Conference on Multimodal Interaction, 2024 (__ICMI 2024__), San Jose, Costa Rica
