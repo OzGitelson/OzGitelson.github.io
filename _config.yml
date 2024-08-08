@@ -42,8 +42,8 @@ plugins:
   - jekyll-feed
 
 permalink: /:title
-
-
+header_pages:
+  - none
 
 # Exclude from processing.
 # The following items will not be processed, by default.
