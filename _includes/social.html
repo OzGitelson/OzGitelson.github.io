@@ -1,0 +1,10 @@
+<ul class="social-media-list">
+    <li>
+        <a rel="me" href="mailto:{{site.email}}" target="_blank" title="email">
+            <img src="assets/images/email.svg" alt="Email Icon" class="svg-icon grey" />
+        </a> 
+    </li>
+    {%- for entry in site.minima.social_links -%}
+      {%- include social-item.html item = entry -%}
+    {%- endfor -%}
+</ul>
